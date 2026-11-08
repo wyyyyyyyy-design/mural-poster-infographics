@@ -8,9 +8,9 @@ A two-branch Codex skill for art posters, editorial infographics, visual-form st
 
 ### Branch A — Weathered Mineral Mural / 风化矿物壁画
 
-| 50 visual forms of an orange | Coffee: a five-part guide |
+| China mural poster | Coffee: a five-part guide |
 | --- | --- |
-| ![50 visual forms of an orange](showcase/branch-a-orange-50-visual-forms.png) | ![Coffee: a five-part guide](showcase/branch-a-coffee-five-part-guide.png) |
+| ![China mural poster](showcase/branch-a-orange-50-visual-forms.png) | ![Coffee: a five-part guide](showcase/branch-a-coffee-five-part-guide.png) |
 
 | Tomato Lab |
 | --- |
