@@ -10,7 +10,7 @@ A two-branch Codex skill for art posters, editorial infographics, visual-form st
 
 | China mural poster | Coffee: a five-part guide |
 | --- | --- |
-| ![China mural poster](showcase/branch-a-orange-50-visual-forms.png) | ![Coffee: a five-part guide](showcase/branch-a-coffee-five-part-guide.png) |
+| ![China mural poster](showcase/branch-a-china-mural-poster.png) | ![Coffee: a five-part guide](showcase/branch-a-coffee-five-part-guide.png) |
 
 | Tomato Lab |
 | --- |
