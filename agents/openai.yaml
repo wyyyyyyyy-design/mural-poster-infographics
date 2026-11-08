@@ -1,0 +1,7 @@
+interface:
+  display_name: "壁画与粉彩厚涂海报图解"
+  short_description: "生成风化壁画或粉彩厚涂自然风海报与信息图"
+  brand_color: "#7FAFC4"
+  default_prompt: "使用 $mural-poster-infographics 把我的主题制作成风化壁画或粉彩厚涂自然风海报与信息图。"
+policy:
+  allow_implicit_invocation: true
